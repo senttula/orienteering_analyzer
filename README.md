@@ -6,7 +6,7 @@ Theoretically arm movement is a lot different when you are focusing on keeping i
 
 ###### Parts
 
-1. WatchApp to save accelerometer data
+1. [WatchApp to save accelerometer data](https://github.com/senttula/orienteering_analyzer/tree/main/SaveAccelerometerData)
 2. Creating model
 3. WatchApp to deploy the model
 4. Analyze a training

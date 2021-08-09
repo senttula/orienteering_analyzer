@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="C:\Users\tka\Documents\eclipse\SaveAccelerometerData\manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="C:\\Users\\tka\\Documents\\eclipse\\SaveAccelerometerData\\source\\SaveAccelerometerDataProcess.mc" id="3" lineNum="17" pc="268435456" symbol="initialize"/>
+        <entry filename="C:\\Users\\tka\\Documents\\eclipse\\SaveAccelerometerData\\source\\SaveAccelerometerDataProcess.mc" id="3" lineNum="18" pc="268435460" symbol="initialize"/>
+        <entry filename="C:\\Users\\tka\\Documents\\eclipse\\SaveAccelerometerData\\source\\SaveAccelerometerDataProcess.mc" id="3" lineNum="19" pc="268435460" symbol="initialize"/>
+        <entry filename="C:\\Users\\tka\\Documents\\eclipse\\SaveAccelerometerData\\source\\SaveAccelerometerDataProcess.mc" id="3" lineNum="20" pc="268435473" symbol="initialize"/>
+        <entry filename="C:\\Users\\tka\\Documents\\eclipse\\SaveAccelerometerData\\source\\SaveAccelerometerDataProcess.mc" id="3" lineNum="21" pc="268435517" symbol="initialize"/>
+        <entry filename="C:\\Users\\tka\\Documents\\eclipse\\SaveAccelerometerData\\source\\SaveAccelerometerDataProcess.mc" id="3" lineNum="22" pc="268435597" symbol="initialize"/>
+        <entry filename="C:\\Users\\tka\\Documents\\eclipse\\SaveAccelerometerData\\source\\SaveAccelerometerDataProcess.mc" id="3" lineNum="25" pc="268435685" symbol="initialize"/>
+        <entry filename="C:\\Users\\tka\\Documents\\eclipse\\SaveAccelerometerData\\source\\SaveAccelerometerDataProcess.mc" id="4" lineNum="30" pc="268435725" symbol="accel_callback"/>
+        <entry filename="C:\\Users\\tka\\Documents\\eclipse\\SaveAccelerometerData\\source\\SaveAccelerometerDataProcess.mc" id="4" lineNum="31" pc="268435729" symbol="accel_callback"/>
+        <entry filename="C:\\Users\\tka\\Documents\\eclipse\\SaveAccelerometerData\\source\\SaveAccelerometerDataProcess.mc" id="5" lineNum="34" pc="268435742" symbol="onStart"/>
+        <entry filename="C:\\Users\\tka\\Documents\\eclipse\\SaveAccelerometerData\\source\\SaveAccelerometerDataProcess.mc" id="5" lineNum="37" pc="268435746" symbol="onStart"/>
+        <entry filename="C:\\Users\\tka\\Documents\\eclipse\\SaveAccelerometerData\\source\\SaveAccelerometerDataProcess.mc" id="5" lineNum="38" pc="268435790" symbol="onStart"/>
+        <entry filename="C:\\Users\\tka\\Documents\\eclipse\\SaveAccelerometerData\\source\\SaveAccelerometerDataProcess.mc" id="5" lineNum="39" pc="268435790" symbol="onStart"/>
+        <entry filename="C:\\Users\\tka\\Documents\\eclipse\\SaveAccelerometerData\\source\\SaveAccelerometerDataProcess.mc" id="5" lineNum="40" pc="268435824" symbol="onStart"/>
+        <entry filename="C:\\Users\\tka\\Documents\\eclipse\\SaveAccelerometerData\\source\\SaveAccelerometerDataProcess.mc" id="5" lineNum="43" pc="268435852" symbol="onStart"/>
+        <entry filename="C:\\Users\\tka\\Documents\\eclipse\\SaveAccelerometerData\\source\\SaveAccelerometerDataProcess.mc" id="6" lineNum="47" pc="268435892" symbol="onStop"/>
+        <entry filename="C:\\Users\\tka\\Documents\\eclipse\\SaveAccelerometerData\\source\\SaveAccelerometerDataProcess.mc" id="6" lineNum="48" pc="268435896" symbol="onStop"/>
+        <entry filename="C:\\Users\\tka\\Documents\\eclipse\\SaveAccelerometerData\\source\\SaveAccelerometerDataProcess.mc" id="6" lineNum="49" pc="268435912" symbol="onStop"/>
+        <entry filename="C:\\Users\\tka\\Documents\\eclipse\\SaveAccelerometerData\\source\\SaveAccelerometerDataProcess.mc" id="7" lineNum="52" pc="268435931" symbol="onPosition"/>
+        <entry filename="C:\\Users\\tka\\Documents\\eclipse\\SaveAccelerometerData\\source\\SaveAccelerometerDataProcess.mc" id="7" lineNum="54" pc="268435935" symbol="onPosition"/>
+        <entry filename="C:\\Users\\tka\\Documents\\eclipse\\SaveAccelerometerData\\source\\SaveAccelerometerDataProcess.mc" id="8" lineNum="58" pc="268435952" symbol="onAccelData"/>
+        <entry filename="C:\\Users\\tka\\Documents\\eclipse\\SaveAccelerometerData\\source\\SaveAccelerometerDataProcess.mc" id="8" lineNum="59" pc="268435956" symbol="onAccelData"/>
+        <entry filename="C:\\Users\\tka\\Documents\\eclipse\\SaveAccelerometerData\\source\\SaveAccelerometerDataProcess.mc" id="9" lineNum="63" pc="268435973" symbol="getTimer"/>
+        <entry filename="C:\\Users\\tka\\Documents\\eclipse\\SaveAccelerometerData\\source\\SaveAccelerometerDataProcess.mc" id="9" lineNum="64" pc="268435977" symbol="getTimer"/>
+        <entry filename="C:\\Users\\tka\\Documents\\eclipse\\SaveAccelerometerData\\source\\SaveAccelerometerDataProcess.mc" id="10" lineNum="67" pc="268436002" symbol="getGpsOn"/>
+        <entry filename="C:\\Users\\tka\\Documents\\eclipse\\SaveAccelerometerData\\source\\SaveAccelerometerDataProcess.mc" id="10" lineNum="68" pc="268436006" symbol="getGpsOn"/>
+        <entry filename="C:\\Users\\tka\\Documents\\eclipse\\SaveAccelerometerData\\source\\SaveAccelerometerDataProcess.mc" id="10" lineNum="70" pc="268436006" symbol="getGpsOn"/>
+        <entry filename="C:\\Users\\tka\\Documents\\eclipse\\SaveAccelerometerData\\source\\SaveAccelerometerDataProcess.mc" id="10" lineNum="71" pc="268436023" symbol="getGpsOn"/>
+        <entry filename="C:\\Users\\tka\\Documents\\eclipse\\SaveAccelerometerData\\source\\SaveAccelerometerDataProcess.mc" id="10" lineNum="75" pc="268436033" symbol="getGpsOn"/>
+        <entry filename="C:\\Users\\tka\\Documents\\eclipse\\SaveAccelerometerData\\source\\SaveAccelerometerDataProcess.mc" id="10" lineNum="78" pc="268436040" symbol="getGpsOn"/>
+        <entry filename="C:\\Users\\tka\\Documents\\eclipse\\SaveAccelerometerData\\source\\SaveAccelerometerDataView.mc" id="12" lineNum="10" pc="268436044" symbol="initialize"/>
+        <entry filename="C:\\Users\\tka\\Documents\\eclipse\\SaveAccelerometerData\\source\\SaveAccelerometerDataView.mc" id="12" lineNum="11" pc="268436048" symbol="initialize"/>
+        <entry filename="C:\\Users\\tka\\Documents\\eclipse\\SaveAccelerometerData\\source\\SaveAccelerometerDataView.mc" id="12" lineNum="12" pc="268436066" symbol="initialize"/>
+        <entry filename="C:\\Users\\tka\\Documents\\eclipse\\SaveAccelerometerData\\source\\SaveAccelerometerDataView.mc" id="13" lineNum="15" pc="268436097" symbol="onLayout"/>
+        <entry filename="C:\\Users\\tka\\Documents\\eclipse\\SaveAccelerometerData\\source\\SaveAccelerometerDataView.mc" id="13" lineNum="16" pc="268436101" symbol="onLayout"/>
+        <entry filename="C:\\Users\\tka\\Documents\\eclipse\\SaveAccelerometerData\\source\\SaveAccelerometerDataView.mc" id="13" lineNum="17" pc="268436138" symbol="onLayout"/>
+        <entry filename="C:\\Users\\tka\\Documents\\eclipse\\SaveAccelerometerData\\source\\SaveAccelerometerDataView.mc" id="13" lineNum="18" pc="268436168" symbol="onLayout"/>
+        <entry filename="C:\\Users\\tka\\Documents\\eclipse\\SaveAccelerometerData\\source\\SaveAccelerometerDataView.mc" id="14" lineNum="21" pc="268436199" symbol="onShow"/>
+        <entry filename="C:\\Users\\tka\\Documents\\eclipse\\SaveAccelerometerData\\source\\SaveAccelerometerDataView.mc" id="14" lineNum="22" pc="268436203" symbol="onShow"/>
+        <entry filename="C:\\Users\\tka\\Documents\\eclipse\\SaveAccelerometerData\\source\\SaveAccelerometerDataView.mc" id="15" lineNum="25" pc="268436222" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\tka\\Documents\\eclipse\\SaveAccelerometerData\\source\\SaveAccelerometerDataView.mc" id="15" lineNum="27" pc="268436226" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\tka\\Documents\\eclipse\\SaveAccelerometerData\\source\\SaveAccelerometerDataView.mc" id="15" lineNum="28" pc="268436276" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\tka\\Documents\\eclipse\\SaveAccelerometerData\\source\\SaveAccelerometerDataView.mc" id="15" lineNum="30" pc="268436317" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\tka\\Documents\\eclipse\\SaveAccelerometerData\\source\\SaveAccelerometerDataView.mc" id="16" lineNum="33" pc="268436338" symbol="onHide"/>
+        <entry filename="C:\\Users\\tka\\Documents\\eclipse\\SaveAccelerometerData\\source\\SaveAccelerometerDataView.mc" id="16" lineNum="34" pc="268436342" symbol="onHide"/>
+        <entry filename="C:\\Users\\tka\\Documents\\eclipse\\SaveAccelerometerData\\source\\SaveAccelerometerDataApp.mc" id="18" lineNum="7" pc="268436361" symbol="initialize"/>
+        <entry filename="C:\\Users\\tka\\Documents\\eclipse\\SaveAccelerometerData\\source\\SaveAccelerometerDataApp.mc" id="18" lineNum="8" pc="268436365" symbol="initialize"/>
+        <entry filename="C:\\Users\\tka\\Documents\\eclipse\\SaveAccelerometerData\\source\\SaveAccelerometerDataApp.mc" id="19" lineNum="12" pc="268436384" symbol="onStart"/>
+        <entry filename="C:\\Users\\tka\\Documents\\eclipse\\SaveAccelerometerData\\source\\SaveAccelerometerDataApp.mc" id="20" lineNum="16" pc="268436389" symbol="onStop"/>
+        <entry filename="C:\\Users\\tka\\Documents\\eclipse\\SaveAccelerometerData\\source\\SaveAccelerometerDataApp.mc" id="21" lineNum="20" pc="268436394" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\tka\\Documents\\eclipse\\SaveAccelerometerData\\source\\SaveAccelerometerDataApp.mc" id="21" lineNum="21" pc="268436398" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\tka\\Documents\\eclipse\\SaveAccelerometerData\\source\\SaveAccelerometerDataApp.mc" id="22" lineNum="26" pc="268436466" symbol="getApp"/>
+        <entry filename="C:\\Users\\tka\\Documents\\eclipse\\SaveAccelerometerData\\source\\SaveAccelerometerDataApp.mc" id="22" lineNum="27" pc="268436478" symbol="getApp"/>
+        <entry filename="C:\\Users\\tka\\Documents\\eclipse\\SaveAccelerometerData\\source\\SaveAccelerometerDataMenuDelegate.mc" id="24" lineNum="7" pc="268436495" symbol="initialize"/>
+        <entry filename="C:\\Users\\tka\\Documents\\eclipse\\SaveAccelerometerData\\source\\SaveAccelerometerDataMenuDelegate.mc" id="24" lineNum="8" pc="268436499" symbol="initialize"/>
+        <entry filename="C:\\Users\\tka\\Documents\\eclipse\\SaveAccelerometerData\\source\\SaveAccelerometerDataDelegate.mc" id="26" lineNum="6" pc="268436518" symbol="initialize"/>
+        <entry filename="C:\\Users\\tka\\Documents\\eclipse\\SaveAccelerometerData\\source\\SaveAccelerometerDataDelegate.mc" id="26" lineNum="7" pc="268436522" symbol="initialize"/>
+        <entry filename="C:\\Users\\tka\\Documents\\eclipse\\SaveAccelerometerData\\source\\SaveAccelerometerDataDelegate.mc" id="27" lineNum="10" pc="268436541" symbol="onMenu"/>
+        <entry filename="C:\\Users\\tka\\Documents\\eclipse\\SaveAccelerometerData\\source\\SaveAccelerometerDataDelegate.mc" id="27" lineNum="11" pc="268436545" symbol="onMenu"/>
+        <entry filename="C:\\Users\\tka\\Documents\\eclipse\\SaveAccelerometerData\\source\\SaveAccelerometerDataDelegate.mc" id="27" lineNum="12" pc="268436629" symbol="onMenu"/>
+        <entry filename="Rez" id="33" lineNum="17" pc="268436633" symbol="MainLayout"/>
+        <entry filename="Rez" id="33" lineNum="19" pc="268436645" symbol="MainLayout"/>
+        <entry filename="Rez" id="33" lineNum="20" pc="268436658" symbol="MainLayout"/>
+        <entry filename="Rez" id="33" lineNum="22" pc="268436671" symbol="MainLayout"/>
+        <entry filename="Rez" id="33" lineNum="23" pc="268436842" symbol="MainLayout"/>
+        <entry filename="Rez" id="33" lineNum="25" pc="268436987" symbol="MainLayout"/>
+        <entry filename="Rez" id="36" lineNum="39" pc="268437015" symbol="initialize"/>
+        <entry filename="Rez" id="36" lineNum="40" pc="268437019" symbol="initialize"/>
+        <entry filename="Rez" id="36" lineNum="41" pc="268437037" symbol="initialize"/>
+        <entry filename="Rez" id="36" lineNum="42" pc="268437093" symbol="initialize"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388713" method="true" symbol="getTimer"/>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="8389346" symbol="text"/>
+        <entry id="11" object="true" symbol="SaveAccelerometerDataApp"/>
+        <entry id="8390184" symbol="sensorLogger"/>
+        <entry id="12" object="true" symbol="SaveAccelerometerMenuDelegate"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry id="8388638" module="true" symbol="ActivityRecording"/>
+        <entry id="27" method="true" symbol="MainLayout"/>
+        <entry field="true" id="18" symbol="mPositionAccuracy"/>
+        <entry field="true" id="8388890" symbol="sport"/>
+        <entry id="8390137" symbol="includePitch"/>
+        <entry id="8390138" symbol="includeRoll"/>
+        <entry id="8390135" symbol="enableAccelerometer"/>
+        <entry id="13" object="true" symbol="SaveAccelerometerDataDelegate"/>
+        <entry id="20" method="true" symbol="onPosition"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry id="10" object="true" symbol="SaveAccelerometerDataView"/>
+        <entry field="true" id="31" symbol="AppName"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8389080" method="true" symbol="onMenu"/>
+        <entry id="8388772" module="true" symbol="Fonts"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry field="true" id="30" symbol="prompt"/>
+        <entry id="9" object="true" symbol="SensorLoggerClass"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry field="true" id="17" symbol="mSession"/>
+        <entry id="8388771" module="true" symbol="Drawables"/>
+        <entry id="8389348" symbol="font"/>
+        <entry id="33" symbol="item_2"/>
+        <entry id="32" symbol="item_1"/>
+        <entry id="24" module="true" symbol="Menus"/>
+        <entry id="8389275" method="true" symbol="getApp"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry field="true" id="8390134" symbol="sampleRate"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="26" object="true" symbol="MainMenu"/>
+        <entry id="8390136" symbol="includePower"/>
+        <entry field="true" id="16" symbol="mLogger"/>
+        <entry field="true" id="15" symbol="mGPSon"/>
+        <entry id="22" method="true" symbol="getGpsOn"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="8388769" module="true" symbol="Rez"/>
+        <entry id="19" method="true" symbol="accel_callback"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="8390088" module="true" symbol="JsonData"/>
+        <entry id="21" method="true" symbol="onAccelData"/>
+        <entry field="true" id="25" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="8388643" module="true" symbol="Sensor"/>
+        <entry id="8390175" module="true" symbol="SensorLogging"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry id="8388770" module="true" symbol="Strings"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry field="true" id="8388892" symbol="name"/>
+        <entry id="8389808" symbol="period"/>
+        <entry id="8388641" module="true" symbol="Math"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry field="true" id="8390177" symbol="mSensorLogger"/>
+        <entry id="8389347" symbol="color"/>
+        <entry id="23" module="true" symbol="Layouts"/>
+        <entry id="8388642" module="true" symbol="Position"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry field="true" id="14" symbol="mTimer"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+        <entry field="true" id="29" symbol="menu_label_2"/>
+        <entry field="true" id="28" symbol="menu_label_1"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435742" name="sensorData" stackId="1" startPc="268435725"/>
+        <entry endPc="268435891" name="options" stackId="1" startPc="268435746"/>
+        <entry arg="true" endPc="268435952" name="info" stackId="1" startPc="268435931"/>
+        <entry endPc="268436043" name="gpsStatusString" stackId="1" startPc="268436006"/>
+        <entry arg="true" endPc="268436199" name="dc" stackId="1" startPc="268436097"/>
+        <entry arg="true" endPc="268436338" name="dc" stackId="1" startPc="268436222"/>
+        <entry arg="true" endPc="268436389" name="state" stackId="1" startPc="268436384"/>
+        <entry arg="true" endPc="268436394" name="state" stackId="1" startPc="268436389"/>
+        <entry endPc="268437014" name="rez_cmp_local_var_dc_getWidth" stackId="3" startPc="268436645"/>
+        <entry endPc="268437014" name="rez_cmp_local_text_timer" stackId="5" startPc="268436645"/>
+        <entry endPc="268437014" name="rez_cmp_local_var_dc_getHeight" stackId="2" startPc="268436645"/>
+        <entry endPc="268437014" name="rez_cmp_local_text_gps" stackId="4" startPc="268436645"/>
+        <entry arg="true" endPc="268437015" name="dc" stackId="1" startPc="268436633"/>
+    </localVars>
+    <annotations>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="menu_label_1"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="menu_label_2"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="prompt"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+    </annotations>
+    <dataEntryOffsetMappings>
+        <dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry label="globals/SaveAccelerometerDataView" offset="182" parentId="globals" symbolId="SaveAccelerometerDataView" type="class"/>
+        <dataEntry label="globals/SaveAccelerometerMenuDelegate" offset="285" parentId="globals" symbolId="SaveAccelerometerMenuDelegate" type="class"/>
+        <dataEntry label="globals/SensorLoggerClass" offset="332" parentId="globals" symbolId="SensorLoggerClass" type="class"/>
+        <dataEntry label="globals/Rez" offset="459" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/Rez/Drawables" offset="538" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Menus" offset="577" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry label="globals/Rez/Menus/MainMenu" offset="616" parentId="Menus" symbolId="MainMenu" type="class"/>
+        <dataEntry label="globals/Rez/Fonts" offset="663" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="694" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/JsonData" offset="733" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="764" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry label="globals/SaveAccelerometerDataDelegate" offset="827" parentId="globals" symbolId="SaveAccelerometerDataDelegate" type="class"/>
+        <dataEntry label="globals/SaveAccelerometerDataApp" offset="882" parentId="globals" symbolId="SaveAccelerometerDataApp" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="SensorLoggerClass">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="accel_callback" parent="SensorLoggerClass">
+            <param id="sensorData"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="SensorLoggerClass">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="SensorLoggerClass">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onPosition" parent="SensorLoggerClass">
+            <param id="info"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onAccelData" parent="SensorLoggerClass">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getTimer" parent="SensorLoggerClass">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getGpsOn" parent="SensorLoggerClass">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="SaveAccelerometerDataView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="SaveAccelerometerDataView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="SaveAccelerometerDataView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="SaveAccelerometerDataView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="SaveAccelerometerDataView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="SaveAccelerometerDataApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="SaveAccelerometerDataApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="SaveAccelerometerDataApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="SaveAccelerometerDataApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="SaveAccelerometerMenuDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="SaveAccelerometerDataDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onMenu" parent="SaveAccelerometerDataDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="MainLayout" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="MainMenu">
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>
